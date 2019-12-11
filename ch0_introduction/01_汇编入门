@@ -1,0 +1,4 @@
+	行号	汇编地址		机器指令				    汇编指令		        注释
+	 1 		00000000 		B83F00                  mov ax,0x3f
+     2 		00000003 		B83F00                  mov ax,0x3f
+     3 		00000006 		B83F00                  mov ax,0x3f           ;this is comment
